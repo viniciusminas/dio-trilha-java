@@ -1,0 +1,23 @@
+# Ignorar diretório .metadata
+.metadata/
+
+# Ignorar arquivos e diretórios gerados por IDEs
+*.classpath
+*.project
+*.settings/
+.idea/
+*.iml
+
+# Ignorar diretório bin (usado por alguns projetos Java para arquivos compilados)
+bin/
+
+# Ignorar diretório target (usado por projetos Maven para arquivos compilados)
+target/
+
+# Ignorar arquivos e diretórios gerados por Gradle
+.gradle/
+build/
+
+# Ignorar arquivos e diretórios específicos do sistema operacional
+.DS_Store
+Thumbs.db
